@@ -22,7 +22,7 @@ function Portfolio() {
             <div className="portfolio_item-image">
                 <img src={img2} alt="" />
             </div>
-            <h3>SLIIT First React Project</h3>
+            <h3>Thaulla Bojun</h3>
            <div className="portfolio__item-cta">
            <a href="https://github.com/SLIIT-IT-Project-2021/Thaulla-Bojun " target="_blank" className='btn'>Github</a>
             
